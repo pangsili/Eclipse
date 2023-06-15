@@ -9,7 +9,7 @@ public class FileRead {
 	private static final String FILES_PATH = "C:\\Users\\Style2009008\\Desktop\\20230612 まとめ\\02. テストデータ\\SPO\\SPOSTGPMOManagement - モダン（グループ外）\\本番用";
 	
 	public static void main(String[] args) throws Exception {
-
+//		main만 작성 후 ctrl + space로 main함수를 만들 수 있다.		
 		File inputFile = new File(FILES_PATH);
 		File[] inputFiles = inputFile.listFiles();
 		
