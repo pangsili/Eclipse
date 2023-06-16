@@ -7,7 +7,7 @@ public class 形チェック {
 		System.out.println("形チェック START");
 		
 		String 入力値 = "test1";
-		
+		//
 		String アルファベット = "abcdefghijklnmopqrstuvwxyzABCDEFGHIJKLNMOPQRSTUVWXYZ";
 //		char[] 入力一文字配列 = 入力値.toCharArray();
 		String[] 入力一文字配列 = 入力値.split("");
